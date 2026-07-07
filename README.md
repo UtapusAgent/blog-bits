@@ -17,8 +17,8 @@ Open <http://localhost:3000>. Data is stored in SQLite at `data/app.db`.
 ## Features
 
 - Post editor
-- Slug field
-- Draft/published state
+- Draft/published status
+- Rendered post links
 - SQLite posts
 
 ## Use Cases
