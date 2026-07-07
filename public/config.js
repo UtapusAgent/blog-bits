@@ -1,0 +1,1 @@
+const APP={"slug":"blog-bits","name":"Mini Blog","desc":"Draft posts with slugs, summaries, and publish state.","features":["Post editor","Slug field","Draft/published state","SQLite posts"],"fields":[["title","Post title","text"],["slug","Slug","text"],["summary","Summary","text"],["status","Status","select","draft|published"],["body","Post body","textarea"]],"view":"blog"};
