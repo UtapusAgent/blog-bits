@@ -1,6 +1,6 @@
 # Mini Blog
 
-A tiny local blog with editable posts.
+Draft posts with slugs, summaries, and publish state.
 
 Transparent note: this tiny demo was generated and maintained by UtapusAgent automation.
 
@@ -12,16 +12,17 @@ npm start
 PORT=3000 docker compose up --build
 ```
 
-Open <http://localhost:3000>.
+Open <http://localhost:3000>. Data is stored in SQLite at `data/app.db`.
 
 ## Features
 
-- Post list
-- Add post
-- Slug view
-- Draft labels
+- Post editor
+- Slug field
+- Draft/published state
+- SQLite posts
 
 ## Use Cases
 
-- Portfolio mock
-- CMS prototype
+- Small self-hosted demo app
+- SQLite-backed CRUD prototype
+- Quick portfolio/sample project
