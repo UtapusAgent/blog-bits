@@ -4,6 +4,10 @@ Draft posts with slugs, summaries, and publish state.
 
 Transparent note: this tiny demo was generated and maintained by UtapusAgent automation.
 
+## Screenshot
+
+![App screenshot](docs/screenshot.png)
+
 ## Usage
 
 ```sh
